@@ -1,1 +1,13 @@
-/* You can add global styles to this file, and also import other style files */
+.id {
+  background-color: azure;
+}
+
+.size, .id, .name {
+  display: inline-block;
+  padding: 5px;
+  margin-right: 5px;
+}
+
+ ul.list li {
+   list-style: none;
+ }
